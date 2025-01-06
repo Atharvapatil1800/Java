@@ -6,6 +6,6 @@ class First {   // Define main class
         System.out.println("Enter radius");   // Prompt the user to enter the radius
         r = sc.nextDouble();   // Read the radius value and store it in variable 'r'
         area = 3.14159*r*r;   // Formula to calculate the area
-        System.out.println("Area is "+area);  // 
+        System.out.println("Area is "+area);  // Print the value of area to the console
     }
 }
