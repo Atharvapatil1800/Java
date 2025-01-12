@@ -1,4 +1,4 @@
-public class bitwise {
+public class Bitwise {
         public static void main(String[] args) {
             int a=5, b=3;
             int c=a&b;
